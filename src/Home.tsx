@@ -21,7 +21,7 @@ export function Home() {
           <div className="container card">
             <h3 className="text-center">Telegraph Image Hosting</h3>
             <p className="text-center text-muted">
-              Free & Unlimited Image Hosting
+              Free & Unlimited Image Hosting (<=5MB)
             </p>
             <button
               id="upload"
@@ -50,7 +50,7 @@ export function Home() {
             ></div>
             <a
               className="text-center text-muted"
-              href="https://github.com/ifyour/cf-image-hosting"
+              href="https://github.com/Kim-Qian/image-hosting"
               target="_blank"
             >
               GitHub
